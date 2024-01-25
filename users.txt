@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 Huang Wanqi(Annie)
 Clement Joshua Dev
 Srinithy Senthilkumar SrinithySenthilkumar
+=======
+members - id
+Huang Wanqi(Annie) - username-is-avaiable
+Clement Joshua Dev - Cjoshd
+Srinithy Senthilkumar - SrinithySenthilkumar u 
+>>>>>>> 8b9dc8a3698b711c73aa7afad56c7d8a6d6634b5
